@@ -15,3 +15,7 @@ iso/
 
 # Optional: ignore GRUB config if generated
 iso/boot/grub/grub.cfg
+
+*.iso
+isodir
+sysroot
