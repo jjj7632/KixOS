@@ -1,0 +1,17 @@
+# Ignore IDE settings
+.vscode/
+
+# Ignore build artifacts
+build/
+iso/
+*.o
+*.bin
+*.iso
+
+# Ignore editor temp files
+*~
+*.swp
+*.tmp
+
+# Optional: ignore GRUB config if generated
+iso/boot/grub/grub.cfg
